@@ -6,3 +6,7 @@ In this project, the goal would be to use autoencoders to add color to grayscale
 Once the autoencoder has been trained on this dataset, it can then be used to colorize new grayscale images. The autoencoder would take the grayscale image as input and use its knowledge of the relationships between grayscale and color pixels to generate a color version of the image.
 
 This project could have a variety of applications, such as improving the visual quality of old black and white photos, or adding color to images for artistic or creative purposes. The use of autoencoders allows for a more automated and efficient process for colorization, as compared to manual techniques that require manual selection and coloring of each pixel.
+
+<video src="https://github.com/Danushkumar-V/Autoencoder-image-colorization/blob/main/Kazam_screencast_00001.mp4" controls>
+  Your browser does not support the video tag.
+</video>
