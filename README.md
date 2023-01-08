@@ -7,6 +7,5 @@ Once the autoencoder has been trained on this dataset, it can then be used to co
 
 This project could have a variety of applications, such as improving the visual quality of old black and white photos, or adding color to images for artistic or creative purposes. The use of autoencoders allows for a more automated and efficient process for colorization, as compared to manual techniques that require manual selection and coloring of each pixel.
 
-<video src="https://github.com/Danushkumar-V/Autoencoder-image-colorization/blob/main/Kazam_screencast_00001.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/84846021/211192426-3b94540f-1000-4e08-8fa1-671674b1900e.mp4
+
